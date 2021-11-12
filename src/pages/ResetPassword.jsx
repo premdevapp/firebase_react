@@ -13,6 +13,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import Card from "../components/Card";
 import Layout from "../components/Layout";
 
+
 const ResetPassword = () => {
   return (
     <Layout>
